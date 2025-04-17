@@ -109,3 +109,6 @@ The generated OpenAPI specifications may be installed and deployed as Maven arti
 
 Thanks to [Yukai Kong](https://github.com/kongchen) for his work on
 [Swagger Maven plugin](https://github.com/kongchen/swagger-maven-plugin). This plugin is heavily inspired by that.
+
+## License
+© 2025 [Lucas Mattos](https://lucasmattos.dev). Todos os direitos reservados.
